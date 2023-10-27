@@ -1,4 +1,4 @@
-# Viinisha
+#create a chatbot in python
 Data preprocessing
 df['question tokens']=df['question'].apply(lambda x:len(x.split()))
 df['answer tokens']=df['answer'].apply(lambda x:len(x.split()))
